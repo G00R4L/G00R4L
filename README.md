@@ -1,10 +1,5 @@
 - 👋 Hi, I’m @G00R4L
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in full-stack dev.
+- 🌱 I’m currently learning Python (Machine Learning and Data Science)
+- 📫 You can write to me here - g00r4l@pm.me
 
-<!---
-G00R4L/G00R4L is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
